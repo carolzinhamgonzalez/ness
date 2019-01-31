@@ -1,3 +1,18 @@
+# Desafio SPA em Angular 7
+Esse é um desafio dado pela Ness - Processos e Tecnologia, como parte de um processo seletivo. 
+
+## Objetivo
+Construir uma aplicação SPA utilizando Angular 7.
+
+##### Requisitos
+* [] Deve conter uma tela de login.
+* [] Deve conter um CRUD.
+* [] Deve conter uma tela principal que utilize uma animação simples.
+* [] Nenhuma das rotas deverá ser acessível sem autenticação.
+* [] Toda a aplicação deve ser responsiva.
+
+
+--------------------------------------------------------------------------------------------------
 # Desafio
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
